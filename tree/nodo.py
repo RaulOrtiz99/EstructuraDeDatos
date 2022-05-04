@@ -24,9 +24,3 @@ class Nodo:
 
     def setdato(self, dato):
         self.dato = dato
-
-nodo = Nodo(1)
-
-print(nodo.getdato())
-nodo.setdato("Hola mundo cruel")
-print(nodo.getdato())
