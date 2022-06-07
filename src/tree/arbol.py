@@ -1,4 +1,4 @@
-from mimetypes import init
+
 
 from tree.nodo import Nodo
 
